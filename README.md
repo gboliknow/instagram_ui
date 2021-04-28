@@ -1,12 +1,10 @@
 # instagram_ui
 
 A new Flutter project.
-![WhatsApp Image 2021-04-28 at 10 22 07 (1)](https://user-images.githubusercontent.com/27766375/116402959-c6e5fd00-a80b-11eb-9942-696db726279a.jpeg)
 
-![WhatsApp Image 2021-04-28 at 10 22 07 (2)](https://user-images.githubusercontent.com/27766375/116402972-c8172a00-a80b-11eb-9b31-65bae59d032e.jpeg)
+![WhatsApp Image 2021-04-28 at 10 22 07 (2)](https://user-images.githubusercontent.com/27766375/116403109-f137ba80-a80b-11eb-9603-53a4544fbe87.jpeg)
+![WhatsApp Image 2021-04-28 at 10 22 07 (1)](https://user-images.githubusercontent.com/27766375/116403113-f1d05100-a80b-11eb-82e3-29d9d76b63aa.jpeg)
 
-
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
